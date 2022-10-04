@@ -1,0 +1,11 @@
+defaultViewKey : ""
+defaultViewPass : ""
+defaultViewSecret : ""
+
+bitcoinViewKey : ""
+bitcoinViewPass : ""
+bitcoinViewSecret : ""
+
+etheriumViewKey : ""
+etheriumViewPass : ""
+etheriumViewSecret : ""
