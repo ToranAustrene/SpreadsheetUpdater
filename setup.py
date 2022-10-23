@@ -17,9 +17,9 @@ setup(
         'gspread',
         'time'
         ],
-    url='',
+    url='https://github.com/ToranAustrene/SpreadsheetUpdater/',
     license='',
-    author='CatatonicMink',
+    author='ToranAustrene',
     author_email='',
     description=''
     )
